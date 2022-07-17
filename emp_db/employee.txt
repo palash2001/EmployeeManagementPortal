@@ -1,0 +1,6 @@
+1,palash,38712,eee,2398023
+2,prince,8273,cse,3293872937
+123,saikumar,12/34/2000,HR,1200000
+1,Palash Aich,27th may, 2001,data scientist,800000
+123,Palash Aich,29/01/2020,Electrical Engineering,200000
+123,kslfkjsa,jlndflk,ojsefjs,lknslkef
